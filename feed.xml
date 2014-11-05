@@ -4,10 +4,10 @@
     <title>Test</title>
     <description>gdolle test site
 </description>
-    <link>http://gdolle.github.io/test//</link>
-    <atom:link href="http://gdolle.github.io/test//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Nov 2014 14:08:36 +0100</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2014 14:08:36 +0100</lastBuildDate>
+    <link>http://gdolle.github.io/test/</link>
+    <atom:link href="http://gdolle.github.io/test/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 05 Nov 2014 15:32:31 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2014 15:32:31 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 29 Oct 2014 18:12:47 +0100</pubDate>
-        <link>http://gdolle.github.io/test//jekyll/update/2014/10/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://gdolle.github.io/test//jekyll/update/2014/10/29/welcome-to-jekyll.html</guid>
+        <link>http://gdolle.github.io/test/jekyll/update/2014/10/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://gdolle.github.io/test/jekyll/update/2014/10/29/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +43,8 @@
         <description>&lt;p&gt;This is a super test.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 18:12:47 +0100</pubDate>
-        <link>http://gdolle.github.io/test//test/2014/10/29/test.html</link>
-        <guid isPermaLink="true">http://gdolle.github.io/test//test/2014/10/29/test.html</guid>
+        <link>http://gdolle.github.io/test/test/2014/10/29/test.html</link>
+        <guid isPermaLink="true">http://gdolle.github.io/test/test/2014/10/29/test.html</guid>
         
         
         <category>test</category>
