@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test"
+date:   2014-10-29 17:12:47
+categories: test
+---
+
+This is a super test.
