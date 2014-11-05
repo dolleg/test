@@ -3,7 +3,7 @@ title: Test
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     gdolle test site
-baseurl: "/test/" # the subpath of your site, e.g. /blog/
+baseurl: "/test" # the subpath of your site, e.g. /blog/
 url: "http://gdolle.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  gdolle
